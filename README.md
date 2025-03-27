@@ -77,7 +77,7 @@ ollama pull mistral
 
 ### **6. Run SpendWise**  
 ```bash
-python spendwise.py
+python main.py
 ```
 
 ---
